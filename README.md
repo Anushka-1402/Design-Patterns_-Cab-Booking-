@@ -1,6 +1,6 @@
 # Design-Patterns_Cab Booking
 
-This is a cab booking Application.<br>
+This is a cab booking Application, built with core Java and Design Patterns.<br>
 The user selects the app to book the cab.<br>
 The steps of cab booking are implemented by using <strong>Template Design Pattern</strong>. There is a template
 for initialization, choosing the ride, payment mode, OTP verification, starting ride and end of the
